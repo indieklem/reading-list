@@ -1,17 +1,17 @@
 Reading list
 =================
 
-###Business
+### Business
 
 * [Make Your Mark](http://99u.com/book/making-an-impact)*, 99u*
 
 
-###Developpement
+### Developpement
 
 * [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)*, A Book Apart, Dan Cederholm*
 * [Responsive Design: Patterns & Principles](https://abookapart.com/products/responsive-design-patterns-principles)*, A Book Apart, Ethan Marcotte*
 
-###Design
+### Design
 
 * [Designing for Emotion](https://abookapart.com/products/designing-for-emotion)*, A Book Apart, Aarron Walter*
 * [Designing for Touch](https://abookapart.com/products/designing-for-touch)*, A Book Apart, Josh Clark*
@@ -23,13 +23,13 @@ Reading list
 * [You’re My Favorite Client ](https://abookapart.com/products/youre-my-favorite-client)*, Jean-Baptiste Rudelle*
 
 
-###Management
+### Management
 
 * [Manage Your Day-to-Day](http://99u.com/book/manage-your-day-to-day-2)*, 99u*
 * [Maximize Your Potential](http://99u.com/book/maximize-your-potential)*, 99u*
 * [On m'avait dit que c'était impossible](https://www.amazon.fr/mavait-dit-que-c%C3%A9tait-impossible/dp/2234078954)*, 99u*
 
-###UX
+### UX
 
 * [The Design of Everyday Things](https://www.jnd.org/books/design-of-everyday-things-revised.html)*, Donald Norman*
 

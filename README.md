@@ -4,6 +4,7 @@ Reading list
 ### Business
 
 * [Make Your Mark](http://99u.com/book/making-an-impact)*, 99u*
+* [Créatif en free-lance, je me lance](http://www.creatif-freelance.com/)*, Julien Moya*
 
 
 ### Developpement
